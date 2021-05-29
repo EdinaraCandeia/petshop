@@ -1,0 +1,175 @@
+.navbar{
+    background-color: #514B23;
+    padding-bottom: 15px;
+}
+.dropdown-item{
+    color: #514B23;
+} 
+.nav-link{
+    margin-left: 20px;
+}
+.d-flex{
+    margin-right: 350px;
+    padding-top: 7px;
+}
+.form-control{
+   height: 35px;
+}
+.fas{
+    color: #CBC9AD;
+    font-size: 35px;
+}
+.fa{
+  color: #CBC9AD; 
+  font-size: 30px;
+  padding-bottom: 8px;
+}
+.carousel-item img{
+    height: 750px; 
+}
+.fai{
+    font-size: 50px;
+    letter-spacing: 50px;
+    color: #514B23;
+    padding-top: 25px;
+    padding-left: 50px;
+}
+.servicos{
+  padding: 30px;
+  background-color: #cbd0b9;
+}
+.servicos h2{
+  font-family: 'Padauk', sans-serif;
+  font-size: 3.0em;
+  text-align: center;
+  padding: 30px;
+  color: dark;
+}
+.card{
+    border-radius: 20px
+}
+.btn{
+    background-color: #514B23;
+    transition: 1s all;
+    cursor: pointer;  
+}
+
+
+
+      /* CSS CONTATO*/
+
+.container-ctt{
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+}
+.ctt1{
+    max-width: 100%;
+    min-width: 50%;
+    height: 100vh;
+}
+.ctt2{
+    max-width: 100%;
+    min-width: 50%;
+    height: 100vh;
+}
+.footer{
+    width: auto;
+    height: 100px;
+    background-color: rgba(203, 201, 173, 0.5);
+    
+}
+.container-ctt form{
+    padding: 2em;
+    color: #696e7c;
+}
+.container-ctt input{
+    margin-top: 2em;
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-left: 1%;
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    font-size: 0.9em;
+    outline-color: #5f7080;
+}
+.container-ctt textarea{
+    margin-top: 0.5em;
+    word-spacing: 2px;
+    outline-color: #5f7080;
+    width: 90%;
+    height: 15vh;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    font-size: 0.9em;
+    color: black;
+}
+#nome{
+    width: 80%;
+    height:4.5vh;
+}
+#email{
+    width: 40%;
+    height:4.5vh;
+}
+#telefone{
+    width: 37%;
+    height:4.5vh;
+}
+input[type="submit"]{
+    color: black;
+    background-color: #CBD0B9;
+    padding: 3%;
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    font-size: 1em;
+    border: none;
+    transition: 1s all;
+}
+input:hover[type="submit"]{
+    background-color: #656839;
+    color: white;
+    transform: scale(1.1);
+}
+.info-cttCenter{
+    max-width: 100%;
+    min-width: 50%;
+    height: 28vh;
+    margin-top: 3.5em;
+}
+.info-ctt{
+    max-width: 50%;
+    min-width: 50%;
+    height: 4vh;
+}
+.info-ctt h7{
+    color: #476B1C;
+    font-weight: bold;
+    font-size: 1em;
+}
+.info-ctt h8{
+    color: #5f7080;
+}
+.info-cttCenter2{
+    max-width: 100%;
+    min-width: 50%;
+    height: 45vh;
+}
+.info-cttCenter3{
+    max-width: 25%;
+    min-width: 15%;
+    height: 10vh;
+    display: flex;
+    margin:4% auto;
+}
+.info-cttCenter4{
+    max-width: 50%;
+    min-width: 15%;
+    text-align: center;
+    margin: auto;
+    padding: 2%;
+}
+.info-cttCenter4 h9{
+  color: white;
+  margin: 0 auto;
+}
